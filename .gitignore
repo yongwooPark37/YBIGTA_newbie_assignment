@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .vscode/
 .mypy_cache/
+
+# 1(2)-CS_basics 에서는 input/ 과 (옛) script.sh를 트래킹에서 제외
+1(2)-CS_basics/input/
+1(2)-CS_basics/script.sh
