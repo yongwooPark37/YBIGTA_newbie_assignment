@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE 설정
+.vscode/
+.idea/
+
+# MyPy cache
+.mypy_cache/
+
+# Logs
+*.log
+
+# OS 파일
+.DS_Store
